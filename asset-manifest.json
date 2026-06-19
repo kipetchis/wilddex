@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wilddex/static/css/main.e6c13ad2.css",
-    "main.js": "/wilddex/static/js/main.08ce133e.js",
+    "main.js": "/wilddex/static/js/main.18fd9fa5.js",
     "static/js/453.10fac788.chunk.js": "/wilddex/static/js/453.10fac788.chunk.js",
     "index.html": "/wilddex/index.html",
     "main.e6c13ad2.css.map": "/wilddex/static/css/main.e6c13ad2.css.map",
-    "main.08ce133e.js.map": "/wilddex/static/js/main.08ce133e.js.map",
+    "main.18fd9fa5.js.map": "/wilddex/static/js/main.18fd9fa5.js.map",
     "453.10fac788.chunk.js.map": "/wilddex/static/js/453.10fac788.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08ce133e.js"
+    "static/js/main.18fd9fa5.js"
   ]
 }
