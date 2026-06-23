@@ -1,6 +1,6 @@
 {
   "short_name": "WildDex",
-  "name": "WildDex — Le Pokédex des vrais animaux",
+  "name": "WildDex — Identifie et collectionne les animaux",
   "description": "Photographie les animaux autour de toi, fais-les identifier par l'IA, et collectionne-les dans ton WildDex.",
   "icons": [
     { "src": "favicon.ico", "sizes": "64x64 32x32 24x24 16x16", "type": "image/x-icon" },
